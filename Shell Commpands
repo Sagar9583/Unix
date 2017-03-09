@@ -1,0 +1,2 @@
+Append output to the end of a text file  
+    for e.g $ echo "hello" >> file_to_append_to
